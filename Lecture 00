@@ -1,0 +1,31 @@
+Lecture 00 - Machine/Deep learning overview and schedule
+
+## Goals
+- Basic understanding of machine learning algorithms
+  : Linear regression, Logistic regression (classification)
+  : Neural networks, Convolutional Neural Network, Recurrent Neural Network (Deep Learning)
+- Solve your problems using machine learning tools
+  : Tensorflow & Python
+
+
+# Andrew Ng's ML class
+- https://class.coursera.org/ml-003/lecture
+- http://www.holehouse.org/mlclass/ (note)
+# convolutional Neural Networks for visual Recongnition.
+- http://cs231n.github.io/
+# Tensorflow
+- https://www.tensorflow.org
+- https://github.com/aymericdamien/TensorFlow-Examples
+
+
+
+## Schedule
+- Machine learning basic concepts
+- Linear regression
+- Logistic regression (classification)
+- Multivariable (Vector) linear/logistic regression
+- Neural networks
+- Deep learning
+  : CNN (Convolutional Neural Network)
+  : RNN (Recurrent Neural Network)
+  : Bidirectional Neural Networks
