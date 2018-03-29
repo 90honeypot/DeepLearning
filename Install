@@ -20,6 +20,9 @@
   (tensorflow)pc:~$ deactivate
   pc:~$ 
 
-
-
+##. Install Matplotlib (show graph)
+  $ sudo apt-get install libpng-dev
+  $ sudo apt-get install libfreetype6-dev
+  $ sudo apt-get install libjpeg8-dev
+  $ sudo pip install matplotlib
 
