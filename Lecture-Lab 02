@@ -11,6 +11,7 @@ y_train = [1,2,3]
 
 # random_normal([shape])
 # 'Variable' = "Trainable"
+## tf.Variable(<initial-value>, name=<optional-name>)
 w = tf.Variable(tf.random_normal([1]), name = 'weight')
 b = tf.Variable(tf.random_normal([1]), name = 'bias')
 
