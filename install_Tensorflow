@@ -1,3 +1,5 @@
+
+
 # Ubuntu 16.04.4 LTS
 
 ##. Upgrade python
@@ -17,3 +19,7 @@
   pc:~$ source ~/tensorflow/bin/activate
   (tensorflow)pc:~$ deactivate
   pc:~$ 
+
+
+
+
