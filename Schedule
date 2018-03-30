@@ -1,0 +1,32 @@
+# Schedule
+4/1 ~ 4/7		1 WEEK
+4/8 ~ 4/14 		2 WEEK
+4/15 ~ 4/21		3 WEEK(MIDTERM EXAM)
+4/22 ~ 4/28		4 WEEK(MIDTERM EXAM)  # MIDTERM EXAM : 4/20(FRI) ~ 4/26(THU)
+4/29 ~ 5/5		5 WEEK
+5/6 ~ 5/12		6 WEEK
+5/13 ~ 5/19		7 WEEK
+5/20 ~ 5/26		8 WEEK
+5/27 ~ 6/2		9 WEEK
+6/3 ~ 6/9		10 WEEK
+6/10 ~ 6/16		11 WEEK(FINAL EXAM)  # FINAL EXAM : 6/15(FRI) ~ 6/21(THU)
+6/17 ~ 6/23		12 WEEK(FINAL EXAM)
+
+< Season 1 - Basic of Deep Learning >
+0 WEEK : Linear Regression
+1 WEEK : Logistic(Regresstion) Classification (Lec 05)
+		 Softmax Regression(Multinomial Logistic Regression) (Lec 06)
+2 WEEK : Application & Tips (Lec 07)
+		 Deep Neural Nets for Everyone (Lec 08)
+3 WEEK - 4 WEEK : Neural Nets(NN) for XOR (Lec 09)
+5 WEEK : ReLu:Better non-linearity (Lec 10)
+6 WEEK : CNN (Lec 11)
+		 RNN (Lec 12)
+
+< Season RL : Deep Reinforcement Learning >
+7 WEEK : OpenAI GYM (Lec 02)
+		 Dummy Q-learning (Lec 03)
+8 WEEK : Q-learning exploit & exploration (Lec 04)
+		 Q-learning in non-deterministic (Lec 05)
+9 WEEK : Q-Network (Lec 06)
+10 WEEK : DQN (Lec 07)
