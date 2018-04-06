@@ -15,18 +15,18 @@
 < Season 1 - Basic of Deep Learning >
 0 WEEK : Linear Regression
 1 WEEK : Logistic(Regresstion) Classification (Lec 05)
-		 Softmax Regression(Multinomial Logistic Regression) (Lec 06)
+	 Softmax Regression(Multinomial Logistic Regression) (Lec 06)
 2 WEEK : Application & Tips (Lec 07)
-		 Deep Neural Nets for Everyone (Lec 08)
+	 Deep Neural Nets for Everyone (Lec 08)
 3 WEEK - 4 WEEK : Neural Nets(NN) for XOR (Lec 09)
 5 WEEK : ReLu:Better non-linearity (Lec 10)
 6 WEEK : CNN (Lec 11)
-		 RNN (Lec 12)
+	 RNN (Lec 12)
 
 < Season RL : Deep Reinforcement Learning >
 7 WEEK : OpenAI GYM (Lec 02)
-		 Dummy Q-learning (Lec 03)
+	 Dummy Q-learning (Lec 03)
 8 WEEK : Q-learning exploit & exploration (Lec 04)
-		 Q-learning in non-deterministic (Lec 05)
+	 Q-learning in non-deterministic (Lec 05)
 9 WEEK : Q-Network (Lec 06)
 10 WEEK : DQN (Lec 07)
